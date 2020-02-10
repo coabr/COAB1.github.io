@@ -1,4 +1,5 @@
-#Este é o meu primeiro repositório git
+# Este é o meu primeiro repositório git
+minha profissão é de engenheira de software
 
 Neste repositório colocarei o meu portfólio de desenvolvedora
 
