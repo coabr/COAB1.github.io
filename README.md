@@ -14,3 +14,7 @@ As minhas experimentações
 resolvi um bug que tinha nessa linha 
 
 Quero testar se estou conseguindo enviar ao github
+
+Quero testar os Pull requests do github
+
+Estou adorando utilizar os pull requests do github, mas nao decorei quase nada ainda porque é muita informação.
