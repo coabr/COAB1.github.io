@@ -10,3 +10,17 @@ Se você quiser saber mais sobre mim, pode acessar [meu site](https://github.com
 
 - Git e Github
 - Introdução à programação
+
+## Linguagens que eu gosto
+
+### Python
+
+Gosto muito e quero trabalhar com python
+
+### Ruby
+
+Minha primeir linguagem
+
+### Javascript
+
+Eu não sei javascript porque é muito doido. 
