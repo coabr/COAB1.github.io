@@ -19,7 +19,7 @@ Gosto muito e quero trabalhar com python
 
 ### Ruby
 
-Minha primeir linguagem
+Minha primeira linguagem
 
 ### Javascript
 
