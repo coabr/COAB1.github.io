@@ -1,26 +1,38 @@
 # Carolina Brito
 
-## Sobre
+## About
 
-Olá, sou Carolina Brito e estou aprendendo a programar. Estou aprendendo agora git e github.
+Hi! Iḿ Carolina but please call me Carol :)
+Since 2019 I am learning by myself how to programming, and now I work as a software developer @ Procenge, where we have some challenges with Angular framework.
+I really enjoy how Git (and Github/Gitlab) can help our lifes when we write code.
+Sometimes I like to write about stuff I'm learning, and you can read my blog posts [here](https://github.com/COAB1/blog)
 
-Se você quiser saber mais sobre mim, pode acessar [meu site](https://github.com/COAB1)
+## Public Speaking
 
-## Cursos do Platzi que fiz
+I really like to give back some of my knowledge to the comunity, here you can find some of activities through the year
 
-- Git e Github
-- Introdução à programação
+## Languages I use the most
 
-## Linguagens que eu gosto
+<p align="center">
+  <a href="https://github.com/COAB1/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=COAB1&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/COAB1/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=COAB1&show_icons=true&theme=dracula"
+    />
+  </a>
+</p>
 
-### Python
+---
+## Contact me
 
-Gosto muito e quero trabalhar com python
+[x] carol.o.ag@gmail.com
+[x] linkedin.com/in/COAB1
 
-### Ruby
 
-Minha primeira linguagem
-
-### Javascript
-
-Eu não sei javascript porque é muito doido. 
