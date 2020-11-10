@@ -32,7 +32,7 @@ I really like to give back some of my knowledge to the comunity, here you can fi
 ---
 ## Contact me
 
-[x] carol.o.ag@gmail.com
-[x] linkedin.com/in/COAB1
+- [x] carol.o.ag@gmail.com
+- [x] linkedin.com/in/COAB1
 
 
