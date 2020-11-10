@@ -19,14 +19,14 @@ I really like to give back some of my knowledge to the comunity, here you can fi
   <a href="https://github.com/COAB1/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=COAB1&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=COAB1&layout=compact"
     />
   </a>
   <a href="https://github.com/COAB1/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=COAB1&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=COAB1&show_icons=true"
     />
   </a>
 </p>
@@ -34,7 +34,8 @@ I really like to give back some of my knowledge to the comunity, here you can fi
 ---
 ## Contact me
 
-- [x] carol.o.ag@gmail.com
-- [x] linkedin.com/in/COAB1
+- https://www.linkedin.com/in/COAB1
+- carol.o.ag@gmail.com
+- +55 81 982718884
 
 
