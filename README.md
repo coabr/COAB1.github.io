@@ -2,10 +2,12 @@
 
 ## About
 
-Hi! Iḿ Carolina but please call me Carol :)
-Since 2019 I am learning by myself how to programming, and now I work as a software developer @ Procenge, where we have some challenges with Angular framework.
+Hi! I'm Carolina but please call me Carol :)
+<br>
+Since 2019 I've been studying about programming languages and now I work as a software developer @ Procenge, where I deal with some challenges mostly with Angular framework.
+<br>
 I really enjoy how Git (and Github/Gitlab) can help our lifes when we write code.
-Sometimes I like to write about stuff I'm learning, and you can read my blog posts [here](https://github.com/COAB1/blog)
+Sometimes I like to write about stuff I'm learning, and you can read my blog posts [here](https://COAB1.github.io/blog)
 
 ## Public Speaking
 
